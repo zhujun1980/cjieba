@@ -9,6 +9,7 @@
 
 Add `CutWithTag` function which can return tag info of the each word, visit [commit ef6eecb](https://github.com/zhujun1980/cjieba/commit/ef6eecbef15c2f292677dcf12286429d7ac0cc1f) for more detail
 
+***
 
 其实就是 [CppJieba] 的 C语言 api 接口，
 独立出来作为一个仓库的原因是不想让 [CppJieba] 变太复杂和臃肿而已。
