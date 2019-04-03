@@ -5,7 +5,10 @@
 [![Performance](https://img.shields.io/badge/performance-excellent-brightgreen.svg?style=flat)](http://yanyiwu.com/work/2015/06/14/jieba-series-performance-test.html) 
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](http://yanyiwu.mit-license.org)
 
+## Improvement
+
 Add `CutWithTag` function which can return tag info of the each word, visit [commit ef6eecb](https://github.com/zhujun1980/cjieba/commit/ef6eecbef15c2f292677dcf12286429d7ac0cc1f) for more detail
+
 
 其实就是 [CppJieba] 的 C语言 api 接口，
 独立出来作为一个仓库的原因是不想让 [CppJieba] 变太复杂和臃肿而已。
